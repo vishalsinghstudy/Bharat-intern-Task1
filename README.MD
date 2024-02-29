@@ -12,9 +12,6 @@ https://github.com/vishalsinghstudy/Bharat-intern-Task1
 ![App Screenshot](https://github.com/vishalsinghstudy/Bharat-intern-Task1/blob/main/img/Screenshot.jpg)
 ![App Screenshot](https://github.com/vishalsinghstudy/Bharat-intern-Task1/blob/main/img/Screenshot2.jpg)
 
-# Screenrecord
-[![Watch the video]((https://github.com/vishalsinghstudy/Bharat-intern-Task1/blob/main/img/Screenshot2.jpg))](https://youtu.be/vt5fpE0bzSY)
-
 # Features 📋
 ⚡️ Fully Responsive
 ⚡️ Valid HTML5 & CSS3
