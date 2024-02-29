@@ -13,7 +13,7 @@ https://github.com/vishalsinghstudy/Bharat-intern-Task1
 ![App Screenshot](https://github.com/vishalsinghstudy/Bharat-intern-Task1/blob/main/img/Screenshot2.jpg)
 
 # Screenrecord
-![App Screenrecord](https://github.com/vishalsinghstudy/Bharat-intern-Task1/blob/main/img/Screenrecord.mp4)
+[![Watch the video](https://github.com/vishalsinghstudy/Bharat-intern-Task1/blob/main/img/Screenrecord.mp4)
 
 # Features 📋
 ⚡️ Fully Responsive
@@ -47,3 +47,7 @@ https://github.com/vishalsinghstudy/Bharat-intern-Task1
 
 # Tools Used 🛠️
 -  GitHub Pages -To host my static website (HTML, CSS, JS).
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/vishalsinghstudy)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/vishal-kumar-singh-492920256)
