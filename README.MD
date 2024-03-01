@@ -50,7 +50,27 @@ https://github.com/vishalsinghstudy/Bharat-intern-Task1
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/vishal-kumar-singh-492920256)
 
 
+
 https://github.com/vishalsinghstudy/Bharat-intern-Task1/blob/main/img/Screenrecord.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
