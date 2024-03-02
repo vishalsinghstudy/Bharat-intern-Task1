@@ -8,6 +8,8 @@ https://github.com/vishalsinghstudy/Bharat-intern-Task1
 
 ## Website Preview
 
+https://github.com/vishalsinghstudy/Bharat-intern-Task1/assets/161107394/334c8826-4a69-4ba0-a73c-976dcd35ccab
+
 # Home Page
 ![App Screenshot](https://github.com/vishalsinghstudy/Bharat-intern-Task1/blob/main/img/Screenshot.jpg)
 ![App Screenshot](https://github.com/vishalsinghstudy/Bharat-intern-Task1/blob/main/img/Screenshot2.jpg)
